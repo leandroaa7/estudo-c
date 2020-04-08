@@ -1,3 +1,4 @@
+/* standart input output */
 #include <stdio.h>
 
 /* Função principal */
