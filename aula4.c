@@ -27,7 +27,7 @@ int main()
     /*
      relação de tipos de parâmetros para o printf
      %i - int
-     %f - float
+     %f - float,double
      %c - char
      %x - hexadecimal
      
