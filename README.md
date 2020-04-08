@@ -1,5 +1,6 @@
-# estudo-c
-
+<p align="center">
+<img src="./c-wall.webp"/>
+</p>
 Curso do canal do YouTube "De aluno para aluno"
 
 [Playlist](https://www.youtube.com/watch?v=-blEJcgMH_U&list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW&index=2)
